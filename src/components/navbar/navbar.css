@@ -1,0 +1,25 @@
+:root {
+    --width: 100%;
+}
+
+.navbar {
+    display: block;
+
+    width: var(--width);
+}
+
+.navbar__list {
+    list-style: none;
+}
+
+.navbar__item {
+    display: inline-block;
+}
+
+.navbar__brand {
+
+}
+
+.navbar__link {
+    
+}
